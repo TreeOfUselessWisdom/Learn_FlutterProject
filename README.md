@@ -43,6 +43,13 @@ MyApp
 
 ---
 
+**Image Credits**
+
+Card widget examples used in this Project were sourced from [Flutter's Widget Catalog on pub.dev](https://pub.dev/), used for educational and non-commercial purposes.
+
+
+---
+
 I’ve learned that there are two main types of widgets in Flutter: **stateless** and **stateful**. A stateless widget can’t change or update itself once it’s built. On the other hand, a stateful widget can rebuild itself when its state changes.
 
 ---
